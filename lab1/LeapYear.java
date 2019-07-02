@@ -2,7 +2,9 @@
  *  @author YOUR NAME HERE
  */
 public class LeapYear {
-
+    private static void helloworld(){
+	System.out.println("HelloWorld");
+    }
     /** Calls isLeapYear to print correct statement.
      *  @param  year to be analyzed
      */
